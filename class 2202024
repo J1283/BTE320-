@@ -1,0 +1,4 @@
+date = input('enter a date: ')
+print(f'the month is{date[:2]}')
+print(f'the day is{date[3:5]}')
+print(f'the year is{date[6:]}')
