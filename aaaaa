@@ -1,0 +1,5 @@
+s = ''
+print(len(s), s)
+for i in range(5):
+  s = s+'a'
+  print(len(s), s)
